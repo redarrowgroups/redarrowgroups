@@ -1,4 +1,12 @@
-- 👋 Hi, Welcome to @redarrowgroups : A professional service firm specializing in rendering services in the following fields
+- 👋 Hi, Welcome to @redarrowgroups : A family owned, professional service firm specializing in rendering services in the following fields:
+-         - Language Interpretation and Translation Services specializing in 
+-         - Data Analytics , Web Analytics, Research ,IT Services and Consultancy
+-         - Retail Services
+-         - Food Production and Processing Services
+-         - Logistics and Supplies
+-         - Farming
+-         - Imports and Exports Services
+-         - Cleaning Services
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
