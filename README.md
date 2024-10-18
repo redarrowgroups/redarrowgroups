@@ -1,5 +1,6 @@
 - 👋 Hi, Welcome to @redarrowgroups : A family owned, professional service firm specializing in rendering services in the following fields:
--         - Language Interpretation and Translation Services specializing in the following languages for now: English, Spanish, French, Ewe, Mina, Twi (Asanti,Akwapim and Fante), Ga, Krobo
+-         - Language Interpretation and Translation Services specializing in the following languages for now:
+-             * English, Spanish, French, Ewe, Mina, Twi (Asanti,Akwapim and Fante), Ga, Krobo
 -         - Data Analytics , Web Analytics, Research ,IT Services and Consultancy
 -         - Retail Services
 -         - Food Production and Processing Services
